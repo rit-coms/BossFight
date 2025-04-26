@@ -8,5 +8,5 @@
   "times_played": 0,
   "last_played": 1727066638,
   "cover_image": "",
-  "exec": "PythonBossFightQuackBox.py"
+  "exec": "game.sh"
 }
