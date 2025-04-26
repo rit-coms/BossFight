@@ -7,6 +7,6 @@
   "genres": ["Arcade"],
   "times_played": 0,
   "last_played": 1727066638,
-  "cover_image": "",
+  "cover_image": "Cover.png",
   "exec": "game.sh"
 }
