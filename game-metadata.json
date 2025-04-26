@@ -1,0 +1,12 @@
+{
+  "title": "BossFight",
+  "author": "Kenan Ahn",
+  "summary": "A really hard boss fight game written in one really long python file.",
+  "release_date": "2024-4-26",
+  "multiplayer": false,
+  "genres": ["Arcade"],
+  "times_played": 0,
+  "last_played": 1727066638,
+  "cover_image": "",
+  "exec": "PythonBossFightQuackBox.py"
+}
